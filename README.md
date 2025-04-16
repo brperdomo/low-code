@@ -1,4 +1,4 @@
-# low-code
+# PoC Tracker
 PoC Tracker for Low Code + SharePoint
 
 This is a web-based Proof of Concept (PoC) Tracker built with React and Tailwind CSS. It mirrors the functionality of a low-code Power App solution,
